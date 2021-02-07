@@ -1,0 +1,6 @@
+.myRepos
+*.txt
+v_automated_whatsapp_message
+**v_automated_whatsapp_message
+*.env
+.env
